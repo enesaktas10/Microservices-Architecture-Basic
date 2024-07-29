@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\",
+  "WorkspaceRootPath": "C:\\Users\\enes\\Desktop\\Microservis.Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C4E2313-424B-43E2-B6B5-CD1AB65A0240}|Order.API\\Order.API.csproj|c:\\users\\enes\\desktop\\etsy\\microservis.example\\order.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E2313-424B-43E2-B6B5-CD1AB65A0240}|Order.API\\Order.API.csproj|solutionrelative:order.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14D08376-D358-4C94-8CEB-E51E3827762E}|Stock.API\\Stock.API.csproj|c:\\users\\enes\\desktop\\microservis.example\\stock.api\\models\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D08376-D358-4C94-8CEB-E51E3827762E}|Stock.API\\Stock.API.csproj|solutionrelative:stock.api\\models\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A85D09C4-D1E2-4881-91F6-834C98C2DF53}|Shared\\Shared.csproj|c:\\users\\enes\\desktop\\etsy\\microservis.example\\shared\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85D09C4-D1E2-4881-91F6-834C98C2DF53}|Shared\\Shared.csproj|solutionrelative:shared\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A85D09C4-D1E2-4881-91F6-834C98C2DF53}|Shared\\Shared.csproj|c:\\users\\enes\\desktop\\etsy\\microservis.example\\shared\\messages\\orderitemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85D09C4-D1E2-4881-91F6-834C98C2DF53}|Shared\\Shared.csproj|solutionrelative:shared\\messages\\orderitemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14D08376-D358-4C94-8CEB-E51E3827762E}|Stock.API\\Stock.API.csproj|c:\\users\\enes\\desktop\\microservis.example\\stock.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D08376-D358-4C94-8CEB-E51E3827762E}|Stock.API\\Stock.API.csproj|solutionrelative:stock.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\Order.API\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Order.API\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\Order.API\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Order.API\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCEAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T18:25:44.415Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderItemMessage.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\Shared\\Messages\\OrderItemMessage.cs",
-              "RelativeDocumentMoniker": "Shared\\Messages\\OrderItemMessage.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\Shared\\Messages\\OrderItemMessage.cs",
-              "RelativeToolTip": "Shared\\Messages\\OrderItemMessage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\Microservis.Example\\Stock.API\\Models\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "Stock.API\\Models\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Users\\enes\\Desktop\\Microservis.Example\\Stock.API\\Models\\Entities\\Stock.cs",
+              "RelativeToolTip": "Stock.API\\Models\\Entities\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:56:06.958Z",
+              "WhenOpened": "2024-07-29T15:27:09.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderCreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\Shared\\Events\\OrderCreatedEvent.cs",
-              "RelativeDocumentMoniker": "Shared\\Events\\OrderCreatedEvent.cs",
-              "ToolTip": "C:\\Users\\enes\\Desktop\\etsy\\Microservis.Example\\Shared\\Events\\OrderCreatedEvent.cs",
-              "RelativeToolTip": "Shared\\Events\\OrderCreatedEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\Microservis.Example\\Stock.API\\Program.cs",
+              "RelativeDocumentMoniker": "Stock.API\\Program.cs",
+              "ToolTip": "C:\\Users\\enes\\Desktop\\Microservis.Example\\Stock.API\\Program.cs",
+              "RelativeToolTip": "Stock.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T18:32:45.99Z",
+              "WhenOpened": "2024-07-29T15:13:48.035Z",
               "EditorCaption": ""
             }
           ]
